@@ -1,0 +1,31 @@
+#animal {
+  width: 300px;
+  font-family: Helvetica, Arial, sans-serif;
+  border: 0.1px;
+  border: groove;
+  box-shadow: 5px 5px 20px #ccc;
+  padding: 0px 10px 10px 10px;
+}
+.interesting-fact {
+  font-style: italic;
+}
+.labels {
+  font-weight: bold;
+}
+.label-items {
+  font-style: italic;
+}
+.list {
+  list-style-type:none;
+  padding:0;
+  margin:0;
+}
+.information {
+  border: 0.1px;
+  border: groove;
+  font-size: 10px;
+  padding: 0px 12px 0px 12px;
+}
+.title {
+  font-size: 24px;
+}
